@@ -3,6 +3,7 @@
 [![npm version](https://badge.fury.io/js/kaomojify-webpack-plugin.svg)](https://badge.fury.io/js/kaomojify-webpack-plugin)
 
 This is a [webpack](http://webpack.github.io/) plugin that convert your built JavaScript code to Japanese kawaii kaomoji(かわいい顔文字).  
+
 Just for fun.  
 **PLEASE DO NOT USE IT IN PRODUCTION ENVIRONMENT !!**
 
