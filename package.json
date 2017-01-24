@@ -1,0 +1,36 @@
+{
+  "name": "kaomojify-webpack-plugin",
+  "version": "0.1.1",
+  "description": "convert your built JavaScript code to Japanese kawaii kaomoji(かわいい顔文字)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokororin/kaomojify-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "kaomoji",
+    "kaomojify"
+  ],
+  "author": "kokororin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokororin/kaomojify-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/kokororin/kaomojify-webpack-plugin#readme",
+  "dependencies": {
+    "is-there": "^4.3.6",
+    "kaomojify": "^0.2.2",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.0"
+  },
+  "peerDependencies": {
+    "webpack": "1 || ^2 || ^2.1.0-beta || ^2.2.0-rc"
+  }
+}
